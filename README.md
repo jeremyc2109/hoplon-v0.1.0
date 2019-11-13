@@ -1,2 +1,2 @@
 # hoplon-v0.1.0
-A simple browser game.
+A simple browser game with fighters.
